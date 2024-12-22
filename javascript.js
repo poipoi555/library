@@ -7,6 +7,7 @@ function Book(title, author, pages, read) {
     this.read = read;
 }
 
+/*
 // troubleshooting
 
 const clearAll = document.querySelector(".clear");
@@ -15,7 +16,7 @@ clearAll.addEventListener("click", () => {
     const books = document.querySelector(".books");
     books.innerHTML = "";
 });
-
+*/
 
 // adding a book --> popup displays 
 
